@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillBoostHub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>SkillBoostHub</h1>
+            <p>Share your skills, learn from others, and grow together.</p>
+        </div>
+    </header>
+    <main>
+        <section class="about">
+            <div class="container">
+                <h2>About SkillBoostHub</h2>
+                <p>SkillBoostHub is a platform where users can share their skills, sell courses, or offer free educational content. Build your skills by learning from others and earn rewards for your contributions.</p>
+            </div>
+        </section>
+        <section class="leaderboard">
+            <div class="container">
+                <h2>Leaderboard</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>User</th>
+                            <th>Points</th>
+                            <th>Rank</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>John Doe</td>
+                            <td>1200</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>Jane Smith</td>
+                            <td>950</td>
+                            <td>2</td>
+                        </tr>
+                        <tr>
+                            <td>Ali Khan</td>
+                            <td>800</td>
+                            <td>3</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+        <section class="cta">
+            <div class="container">
+                <h2>Start Sharing Today!</h2>
+                <p>Create an account and begin sharing your skills or learning new ones.</p>
+                <a href="#" class="btn">Join Now</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 SkillBoostHub. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
